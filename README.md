@@ -2,7 +2,7 @@
 &nbsp;
 <h1 align="center">Hi 👋, I'm Tarik</h1>
 <h5 align="center">I am a software developer with a passion for creating efficient solutions to complex problems. My interest in solving problems developed through life science while studying for my B.S. in Physiotherapy and Rehabilitation. Then I started learning programming as a hobby, which led a career change. I am currently studying Computer Programming at Seneca College in Toronto. During my study, I focused on data structures and algorithms, object oriented programming, database management, backend and frontend web development, software analysis and design. I wish to continue working with passionate teams of talented developers to create technology that benefits its users by improving their daily health and everyday life.</h5>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 - 🔭 I’m currently working on **TOT - Social Network**
