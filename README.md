@@ -1,4 +1,4 @@
-<img align="right" alt="Background" width="100%" src="./1.png">
+<img align="right" alt="Background" width="100%" src="./software-developer.png">
 &nbsp;
 <h1 align="center">Hi 👋, I'm Tarik</h1>
 <h5 align="center">I am a software developer with a passion for creating efficient solutions to complex problems. My interest in solving problems developed through life science while studying for my B.S. in Physiotherapy and Rehabilitation. Then I started learning programming as a hobby, which led a career change. I am currently studying Computer Programming at Seneca College in Toronto. During my study, I focused on data structures and algorithms, object oriented programming, database management, backend and frontend web development, software analysis and design. I wish to continue working with passionate teams of talented developers to create technology that benefits its users by improving their daily health and everyday life.</h5>
