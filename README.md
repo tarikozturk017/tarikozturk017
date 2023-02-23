@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **tarikozturk017@gmail.com**
 
+- 📃 Check out my portfolio **www.tarikozturk.ca**
+
 <div align="center">
 <h3 align="left">Social:</h3>
 <p align="left">
