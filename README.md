@@ -6,6 +6,8 @@
 
 
 
+- 🌱 I’m currently working on a patient management project **HC Management**
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **my projects and background.**
