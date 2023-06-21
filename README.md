@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tarikozturk017@gmail.com**
 
-- 📃 Check out my portfolio and side projects**www.tarikozturk.ca**
+- 📃 Check out my portfolio and side projects** www.tarikozturk.ca**
 
 - 📜 Read my technical blogs **https://tozturk.hashnode.dev/**
 
