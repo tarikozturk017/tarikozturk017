@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **my projects and background.**
+- 💬 Ask me about **my projects**
 
 - 📫 How to reach me **tarikozturk017@gmail.com**
 
