@@ -16,6 +16,8 @@
 
 - 📃 Check out my portfolio and side projects **www.tarikozturk.ca**
 
+- 📃 Check out my Leetcode **https://leetcode.com/tarikozturk017/** 
+
 - 📜 Read my technical blogs **https://tozturk.hashnode.dev/**
 
 <div align="center">
