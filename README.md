@@ -2,7 +2,7 @@
 &nbsp;
 <h2 align="center">Building full-stack systems that connect data, devices, and people</h2>
 
-<h5 align="center">I develop full-stack systems that connect devices, data, and people. My work combines backend logic, cloud infrastructure, frontend design, and IoT integrations—built with clarity and purpose.
+<h5 align="center">I develop full-stack systems that connect devices, data, and people. My work combines backend logic, cloud infrastructure, frontend design, and IoT integrations - built with clarity and purpose.
   
 I’m most interested in projects that simplify complexity and create real-world impact.</h5>
 
