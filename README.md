@@ -24,4 +24,4 @@ I’m most interested in projects that simplify complexity and create real-world
 
 ---
 
-<p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikozturk017&theme=tokyonight" alt="tarikozturk017" /></p>
+<p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tarikozturk017&theme=transparent&hide_border=true" alt="tarikozturk017" /></p>
